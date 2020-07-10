@@ -276,3 +276,4 @@ F:\ASP.NET\blockbuster\blockbuster\obj\Debug\blockbuster.csproj.GenerateResource
 F:\ASP.NET\blockbuster\blockbuster\obj\Debug\blockbuster.csproj.CopyComplete
 F:\ASP.NET\blockbuster\blockbuster\obj\Debug\blockbuster.dll
 F:\ASP.NET\blockbuster\blockbuster\obj\Debug\blockbuster.pdb
+F:\ASP.NET\blockbuster\blockbuster\obj\Debug\blockbuster.csproj.CoreCompileInputs.cache

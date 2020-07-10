@@ -32,3 +32,73 @@ input.error{
     color: red;
     border: 2px solid red;
 }
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.head-bg {
+    background-image: url('../movie.jpg');
+    background-color: gray;
+    height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin: 0px;
+}
+
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    overflow-x: hidden;
+    margin-left:75px;
+    margin-right:75px;
+}
+
+section#home-section {
+    margin-left: -75px;
+    margin-right: -75px;
+    margin-top: -50px;
+}
+
+.body-margin {
+    margin-top: 50px;
+}
+
+
+.head-text {
+    border-radius: 15px;
+    background-color: #0f171e;
+    text-align: left;
+    position: absolute;
+    top: 60%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+    color: white;
+    padding: 1.5rem;
+}
+
+.bttn {
+    float:right !important;
+}
+
+.bttn:hover {
+    border: 1px solid #800505 !important;
+    
+}
+
+@media only screen and (max-width:768px) {
+    body {
+        margin-right: 2em;
+        margin-left: 2em;
+    }
+
+    .head-text {
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        margin-top: 40px;
+    }
+}
